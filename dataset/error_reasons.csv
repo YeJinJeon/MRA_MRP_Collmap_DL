@@ -1,0 +1,63 @@
+20200921_KU_81083193,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 207 but corresponding boolean dimension is 214
+20200621_KU_187639,Source:'FileDataset' object has no attribute 'Rows'
+20201110_KU_71089857,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 207 but corresponding boolean dimension is 214
+20200421_KU_90092339,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 214 but corresponding boolean dimension is 219
+20200825_KU_9315604,Source:'FileDataset' object has no attribute 'Rows'
+20200822_KU_535816,Source:'FileDataset' object has no attribute 'Rows'
+20200921_KU_5016820,Preprocess:operands could not be broadcast together with shapes (162,217) (173,217) 
+20200515_KU_337071,Source:'FileDataset' object has no attribute 'Rows'
+20200820_KU_576985,Source:'FileDataset' object has no attribute 'Rows'
+20201116_KU_52067647,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 214 but corresponding boolean dimension is 224
+20200628_KU_748758,Source:'FileDataset' object has no attribute 'Rows'
+20200417_KU_9311565,Source:'FileDataset' object has no attribute 'Rows'
+20200409_KU_9013558,Source:'FileDataset' object has no attribute 'Rows'
+20201001_KU_01096043,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 214 but corresponding boolean dimension is 217
+20200612_KU_12037852,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 217 but corresponding boolean dimension is 219
+20190412_KU_5112668,Source:'FileDataset' object has no attribute 'Rows'
+20200519_KU_52033338,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 214 but corresponding boolean dimension is 232
+20201220_KU_52003725,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 202 but corresponding boolean dimension is 214
+20200327_KU_9312453,Source:'FileDataset' object has no attribute 'Rows'
+20200428_KU_52069260,Source:index -423 is out of bounds for axis 1 with size 141
+20200604_KU_708014,Source:'FileDataset' object has no attribute 'Rows'
+20200606_KU_527008,Source:'FileDataset' object has no attribute 'Rows'
+20200612_KU_9314895,Source:'FileDataset' object has no attribute 'Rows'
+20200919_KU_32034861,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 212 but corresponding boolean dimension is 229
+20200518_KU_02056571,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 217 but corresponding boolean dimension is 229
+20200318_KU_80078740,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 212 but corresponding boolean dimension is 242
+20200212_KU_52059144,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 212 but corresponding boolean dimension is 214
+20200806_KU_52009432,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 212 but corresponding boolean dimension is 227
+20200406_KU_8013216,Source:'FileDataset' object has no attribute 'Rows'
+20200317_KU_61008934,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 209 but corresponding boolean dimension is 227
+20200912_KU_787775,Source:'FileDataset' object has no attribute 'Rows'
+20200529_KU_9315780,Source:'FileDataset' object has no attribute 'Rows'
+20200819_KU_398928,Source:'FileDataset' object has no attribute 'Rows'
+20200526_KU_61000416,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 202 but corresponding boolean dimension is 217
+20200912_KU_42061471,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 212 but corresponding boolean dimension is 219
+20200513_KU_5012124,Source:'FileDataset' object has no attribute 'Rows'
+20200119_KU_71086545,Source:too many values to unpack (expected 3)
+20201005_KU_52099526,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 199 but corresponding boolean dimension is 204
+20200522_KU_9317386,Source:'FileDataset' object has no attribute 'Rows'
+20200127_KU_969346,Source:'FileDataset' object has no attribute 'Rows'
+20200927_KU_70097837,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 207 but corresponding boolean dimension is 219
+20200327_KU_52015227,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 202 but corresponding boolean dimension is 207
+20200330_KU_1114584,Source:'FileDataset' object has no attribute 'Rows'
+20200214_KU_12098597,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 209 but corresponding boolean dimension is 214
+20200505_KU_52050356,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 212 but corresponding boolean dimension is 227
+20191228_KU_8316397,Source:File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+20201014_KU_2015074,Source:'FileDataset' object has no attribute 'Rows'
+20200429_KU_9312172,Source:'FileDataset' object has no attribute 'Rows'
+20200922_KU_41052305,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 219 but corresponding boolean dimension is 234
+20200507_KU_02097599,Source:index -411 is out of bounds for axis 1 with size 137
+20201116_KU_9111490,Source:cannot unpack non-iterable NoneType object
+20160122_KU_22088416,GT:list index out of range
+20200814_KU_52001531,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 204 but corresponding boolean dimension is 229
+20200229_KU_80036314,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 194 but corresponding boolean dimension is 204
+20180305_KU_816109,Source:cannot unpack non-iterable NoneType object
+20200923_KU_91095717,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 224 but corresponding boolean dimension is 227
+20190323_KU_697754,Source:'FileDataset' object has no attribute 'Rows'
+20200704_KU_81014557,Source:index -414 is out of bounds for axis 1 with size 138
+20200818_KU_4119713,Source:'FileDataset' object has no attribute 'Rows'
+20201105_KU_31096982,Source:index -411 is out of bounds for axis 1 with size 137
+20171223_KU_32000734,Source:index -4031 is out of bounds for axis 1 with size 139
+20190426_KU_70026526,Preprocess:boolean index did not match indexed array along dimension 3; dimension is 199 but corresponding boolean dimension is 207
+20200725_KU_418321,Source:'FileDataset' object has no attribute 'Rows'

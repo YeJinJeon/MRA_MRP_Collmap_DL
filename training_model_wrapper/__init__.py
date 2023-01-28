@@ -1,0 +1,2 @@
+from training_model_wrapper.training_model_wrapper_for_4d import TrainingModelWrapperFor4d
+from training_model_wrapper.training_model_wrapper_for_5d import TrainingModelWrapperFor5d
